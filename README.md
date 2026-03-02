@@ -1,16 +1,24 @@
-## Hi there 👋
+<br>
+<br>
 
-<!--
-**00Quark/00Quark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&weight=600&size=22&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=>+INICIALIZANDO+SISTEMA+DELTA...;>+NODE:+ALPHA-CENTRAL...;>+AUTENTICAÇÃO:+AGENTE+NIKA+(UMBRA);>+CLEARANCE:+ALPHA-7+CONCEDIDO." alt="Typing SVG DtOs Boot" />
+  </a>
+</div>
 
-Here are some ideas to get you started:
+<br>
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <h2 style="color: #00bfff;"> DtOs - NET STATUS: ONLINE </h2>
+   <p>Apenas brincando com meus projetos e tbm segindo ordens da <code>Delta</code></p>
+</div>
+
+<br>
+<br>
+
+<div align="center">
+  <br>
+  <p><i><span style="color: #00bfff;">DELTA CORP. ©</span> <br>Garantindo a eficiência do sistema, uma linha de código por vez.</i></p>
+</div>
