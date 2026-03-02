@@ -8,7 +8,6 @@
 </div>
 
 <br>
-<br>
 
 <div align="center">
   <h2 style="color: #00bfff;"> DtOs - NET STATUS: ONLINE </h2>
